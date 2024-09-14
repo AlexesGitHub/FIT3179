@@ -1,0 +1,421 @@
+,Measure Code,Parent Description,Description,2011,2015,2016,2017,2018,2019,2020,2021,2022,2023,State
+192,ING_EETP1,"Engagement in employment, education or training - Census",Fully engaged (%),42.5,,43.4,,,,,42.7,,,New South Wales
+193,ING_EETP2,"Engagement in employment, education or training - Census",Partially or at least partially engaged (%),16.8,,17.4,,,,,20.3,,,New South Wales
+194,ING_EETP3,"Engagement in employment, education or training - Census",Not engaged (%),40.7,,39.2,,,,,37.0,,,New South Wales
+195,ING_YR12ATT,Education - Census,Attained year 12 or equivalent or Certificate III or above (aged 20-24 years) (Closing the Gap measure) (%),53.5,,64.3,,,,,69.3,,,New South Wales
+220,ING_DISAB3,Disability status,Schooling/employment restriction only (no.),,,,,,15511.0,,,,,New South Wales
+280,CABEE_22,Number of businesses by industry - at 30 June,Education and training (no.),,,,,,12472.0,12950.0,13774.0,14653.0,14839.0,New South Wales
+341,EMP_IND_2,Industry of employment - Persons aged 15 years and over - Census,"Agriculture, forestry and fishing (%)",2.2,,2.1,,,,,2.0,,,New South Wales
+342,EMP_IND_3,Industry of employment - Persons aged 15 years and over - Census,Mining (%),1.0,,0.9,,,,,1.0,,,New South Wales
+343,EMP_IND_4,Industry of employment - Persons aged 15 years and over - Census,Manufacturing (%),8.4,,5.8,,,,,5.5,,,New South Wales
+344,EMP_IND_5,Industry of employment - Persons aged 15 years and over - Census,"Electricity, gas, water and waste services (%)",1.1,,0.9,,,,,1.0,,,New South Wales
+345,EMP_IND_6,Industry of employment - Persons aged 15 years and over - Census,Construction (%),7.3,,8.4,,,,,8.6,,,New South Wales
+346,EMP_IND_7,Industry of employment - Persons aged 15 years and over - Census,Wholesale trade (%),4.4,,3.1,,,,,2.8,,,New South Wales
+347,EMP_IND_8,Industry of employment - Persons aged 15 years and over - Census,Retail trade (%),10.3,,9.7,,,,,9.0,,,New South Wales
+348,EMP_IND_9,Industry of employment - Persons aged 15 years and over - Census,Accommodation and food services (%),6.7,,7.1,,,,,6.2,,,New South Wales
+349,EMP_IND_10,Industry of employment - Persons aged 15 years and over - Census,"Transport, postal and warehousing (%)",4.9,,4.7,,,,,4.6,,,New South Wales
+350,EMP_IND_11,Industry of employment - Persons aged 15 years and over - Census,Information media and telecommunications (%),2.3,,2.2,,,,,1.8,,,New South Wales
+351,EMP_IND_12,Industry of employment - Persons aged 15 years and over - Census,Financial and insurance services (%),5.0,,4.9,,,,,5.3,,,New South Wales
+352,EMP_IND_13,Industry of employment - Persons aged 15 years and over - Census,"Rental, hiring and real estate services (%)",1.6,,1.8,,,,,1.7,,,New South Wales
+353,EMP_IND_14,Industry of employment - Persons aged 15 years and over - Census,"Professional, scientific and technical services (%)",7.9,,8.1,,,,,8.9,,,New South Wales
+354,EMP_IND_15,Industry of employment - Persons aged 15 years and over - Census,Administrative and support services (%),3.3,,3.5,,,,,3.2,,,New South Wales
+355,EMP_IND_16,Industry of employment - Persons aged 15 years and over - Census,Public administration and safety (%),6.1,,6.0,,,,,6.1,,,New South Wales
+356,EMP_IND_17,Industry of employment - Persons aged 15 years and over - Census,Education and training (%),7.9,,8.4,,,,,8.7,,,New South Wales
+357,EMP_IND_18,Industry of employment - Persons aged 15 years and over - Census,Health care and social assistance (%),11.6,,12.5,,,,,14.4,,,New South Wales
+358,EMP_IND_19,Industry of employment - Persons aged 15 years and over - Census,Arts and recreation services (%),1.5,,1.5,,,,,1.4,,,New South Wales
+359,EMP_IND_20,Industry of employment - Persons aged 15 years and over - Census,Other services (%),3.7,,3.7,,,,,3.4,,,New South Wales
+360,EMP_IND_22,Industry of employment - Persons aged 15 years and over - Census,Industry of employment inadequately described or not stated (%),2.5,,4.7,,,,,4.6,,,New South Wales
+361,EMP_IND_21,Industry of employment - Persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),3138332.0,,3380336.0,,,,,3684158.0,,,New South Wales
+447,HELP_2,Higher Education Loan Program (HELP) - year ended 30 June,Persons who made a HELP repayment (no.),,,,193264.0,200441.0,256082.0,319572.0,344339.0,348582.0,,New South Wales
+466,LEED_20,Jobs in Australia - year ended 30 June,Number of employee jobs - education and training,,,419885.0,430935.0,425850.0,436628.0,455420.0,,,,New South Wales
+478,SCHOOL_2,Non-school qualifications - Persons aged 15 years and over - Census,Total persons with non-school qualification(s) (%),57.2,,60.9,,,,,64.1,,,New South Wales
+479,SCHOOL_3,Non-school qualifications - Persons aged 15 years and over - Census,Postgraduate degree (%),4.3,,5.7,,,,,7.4,,,New South Wales
+480,SCHOOL_4,Non-school qualifications - Persons aged 15 years and over - Census,Graduate diploma/graduate certificate (%),1.5,,1.7,,,,,2.1,,,New South Wales
+481,SCHOOL_5,Non-school qualifications - Persons aged 15 years and over - Census,Bachelor degree (%),14.1,,16.0,,,,,18.4,,,New South Wales
+482,SCHOOL_6,Non-school qualifications - Persons aged 15 years and over - Census,Advanced diploma/diploma (%),8.3,,8.9,,,,,9.3,,,New South Wales
+483,SCHOOL_7,Non-school qualifications - Persons aged 15 years and over - Census,Certificate (%),17.7,,18.1,,,,,18.1,,,New South Wales
+484,SCHOOL_9,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification inadequately described (%),1.8,,1.0,,,,,0.8,,,New South Wales
+485,SCHOOL_10,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification not stated (%),9.7,,9.6,,,,,8.0,,,New South Wales
+486,FIELD_2,Non-school qualification: field of study - Persons aged 15 years and over - Census,Natural and physical sciences (%),2.7,,2.8,,,,,2.9,,,New South Wales
+487,FIELD_3,Non-school qualification: field of study - Persons aged 15 years and over - Census,Information technology (%),3.1,,3.4,,,,,4.0,,,New South Wales
+488,FIELD_4,Non-school qualification: field of study - Persons aged 15 years and over - Census,Engineering and related technologies (%),14.8,,13.8,,,,,12.9,,,New South Wales
+489,FIELD_5,Non-school qualification: field of study - Persons aged 15 years and over - Census,Architecture and building (%),5.4,,5.3,,,,,5.3,,,New South Wales
+490,FIELD_6,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Agriculture, environmental and related studies (%)",1.9,,1.8,,,,,1.8,,,New South Wales
+491,FIELD_7,Non-school qualification: field of study - Persons aged 15 years and over - Census,Health (%),8.5,,8.8,,,,,9.5,,,New South Wales
+492,FIELD_8,Non-school qualification: field of study - Persons aged 15 years and over - Census,Education (%),7.1,,7.1,,,,,7.4,,,New South Wales
+493,FIELD_9,Non-school qualification: field of study - Persons aged 15 years and over - Census,Management and commerce (%),20.3,,21.1,,,,,21.8,,,New South Wales
+494,FIELD_10,Non-school qualification: field of study - Persons aged 15 years and over - Census,Society and culture (%),10.2,,11.1,,,,,11.8,,,New South Wales
+495,FIELD_11,Non-school qualification: field of study - Persons aged 15 years and over - Census,Creative arts (%),3.6,,3.8,,,,,4.2,,,New South Wales
+496,FIELD_12,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Food, hospitality and personal services (%)",4.5,,4.4,,,,,4.4,,,New South Wales
+497,FIELD_13,Non-school qualification: field of study - Persons aged 15 years and over - Census,Mixed field programmes (%),0.1,,0.3,,,,,0.2,,,New South Wales
+498,FIELD_15,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study inadequately described (%),1.1,,1.2,,,,,1.4,,,New South Wales
+499,FIELD_16,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study not stated (%),16.6,,14.9,,,,,12.4,,,New South Wales
+513,LF_4,Labour force status - Persons aged 15 years and over - Census,Unemployment rate (%),5.9,,6.3,,,,,4.9,,,New South Wales
+695,QUALMIG_2,Level of highest educational attainment of persons born overseas - Census,Postgraduate degree level (%),,,10.4,,,,,13.2,,,New South Wales
+696,QUALMIG_3,Level of highest educational attainment of persons born overseas - Census,Graduate diploma and graduate certificate level (%),,,1.6,,,,,2.0,,,New South Wales
+697,QUALMIG_4,Level of highest educational attainment of persons born overseas - Census,Bachelor degree level (%),,,22.5,,,,,25.0,,,New South Wales
+698,QUALMIG_5,Level of highest educational attainment of persons born overseas - Census,Advanced diploma and diploma level (%),,,9.8,,,,,10.4,,,New South Wales
+699,QUALMIG_6,Level of highest educational attainment of persons born overseas - Census,Certificate level (%),,,9.8,,,,,9.3,,,New South Wales
+700,QUALMIG_7,Level of highest educational attainment of persons born overseas - Census,School education level (%),,,36.0,,,,,31.0,,,New South Wales
+701,QUALMIG_8,Level of highest educational attainment of persons born overseas - Census,Education not stated (%),,,4.4,,,,,3.9,,,New South Wales
+715,LFMIG_5,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Unemployment rate (%),,,7.2,,,,,5.9,,,New South Wales
+983,ING_EETP1,"Engagement in employment, education or training - Census",Fully engaged (%),43.4,,41.1,,,,,41.3,,,Tasmania
+984,ING_EETP2,"Engagement in employment, education or training - Census",Partially or at least partially engaged (%),20.5,,21.2,,,,,22.2,,,Tasmania
+985,ING_EETP3,"Engagement in employment, education or training - Census",Not engaged (%),36.1,,37.7,,,,,36.4,,,Tasmania
+986,ING_YR12ATT,Education - Census,Attained year 12 or equivalent or Certificate III or above (aged 20-24 years) (Closing the Gap measure) (%),54.9,,62.7,,,,,68.1,,,Tasmania
+1011,ING_DISAB3,Disability status,Schooling/employment restriction only (no.),,,,,,1836.0,,,,,Tasmania
+1071,CABEE_22,Number of businesses by industry - at 30 June,Education and training (no.),,,,,,401.0,464.0,493.0,541.0,551.0,Tasmania
+1132,EMP_IND_2,Industry of employment - Persons aged 15 years and over - Census,"Agriculture, forestry and fishing (%)",4.8,,5.3,,,,,5.3,,,Tasmania
+1133,EMP_IND_3,Industry of employment - Persons aged 15 years and over - Census,Mining (%),1.3,,1.0,,,,,1.0,,,Tasmania
+1134,EMP_IND_4,Industry of employment - Persons aged 15 years and over - Census,Manufacturing (%),8.7,,6.9,,,,,6.4,,,Tasmania
+1135,EMP_IND_5,Industry of employment - Persons aged 15 years and over - Census,"Electricity, gas, water and waste services (%)",1.7,,1.6,,,,,1.8,,,Tasmania
+1136,EMP_IND_6,Industry of employment - Persons aged 15 years and over - Census,Construction (%),7.6,,7.6,,,,,8.6,,,Tasmania
+1137,EMP_IND_7,Industry of employment - Persons aged 15 years and over - Census,Wholesale trade (%),3.3,,2.2,,,,,2.2,,,Tasmania
+1138,EMP_IND_8,Industry of employment - Persons aged 15 years and over - Census,Retail trade (%),11.3,,10.9,,,,,9.6,,,Tasmania
+1139,EMP_IND_9,Industry of employment - Persons aged 15 years and over - Census,Accommodation and food services (%),7.3,,7.6,,,,,7.6,,,Tasmania
+1140,EMP_IND_10,Industry of employment - Persons aged 15 years and over - Census,"Transport, postal and warehousing (%)",4.3,,4.2,,,,,4.1,,,Tasmania
+1141,EMP_IND_11,Industry of employment - Persons aged 15 years and over - Census,Information media and telecommunications (%),1.5,,1.4,,,,,1.0,,,Tasmania
+1142,EMP_IND_12,Industry of employment - Persons aged 15 years and over - Census,Financial and insurance services (%),2.4,,2.1,,,,,1.9,,,Tasmania
+1143,EMP_IND_13,Industry of employment - Persons aged 15 years and over - Census,"Rental, hiring and real estate services (%)",1.3,,1.2,,,,,1.1,,,Tasmania
+1144,EMP_IND_14,Industry of employment - Persons aged 15 years and over - Census,"Professional, scientific and technical services (%)",4.7,,4.7,,,,,5.1,,,Tasmania
+1145,EMP_IND_15,Industry of employment - Persons aged 15 years and over - Census,Administrative and support services (%),2.7,,3.0,,,,,2.9,,,Tasmania
+1146,EMP_IND_16,Industry of employment - Persons aged 15 years and over - Census,Public administration and safety (%),9.0,,7.8,,,,,7.3,,,Tasmania
+1147,EMP_IND_17,Industry of employment - Persons aged 15 years and over - Census,Education and training (%),9.0,,9.3,,,,,9.4,,,Tasmania
+1148,EMP_IND_18,Industry of employment - Persons aged 15 years and over - Census,Health care and social assistance (%),12.0,,14.2,,,,,16.4,,,Tasmania
+1149,EMP_IND_19,Industry of employment - Persons aged 15 years and over - Census,Arts and recreation services (%),1.6,,1.9,,,,,1.8,,,Tasmania
+1150,EMP_IND_20,Industry of employment - Persons aged 15 years and over - Census,Other services (%),3.7,,3.7,,,,,3.8,,,Tasmania
+1151,EMP_IND_22,Industry of employment - Persons aged 15 years and over - Census,Industry of employment inadequately described or not stated (%),2.0,,3.4,,,,,2.8,,,Tasmania
+1152,EMP_IND_21,Industry of employment - Persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),217297.0,,216584.0,,,,,254722.0,,,Tasmania
+1238,HELP_2,Higher Education Loan Program (HELP) - year ended 30 June,Persons who made a HELP repayment (no.),,,,9424.0,9682.0,12854.0,16507.0,18455.0,19560.0,,Tasmania
+1257,LEED_20,Jobs in Australia - year ended 30 June,Number of employee jobs - education and training,,,31797.0,31979.0,32404.0,33507.0,34715.0,,,,Tasmania
+1269,SCHOOL_2,Non-school qualifications - Persons aged 15 years and over - Census,Total persons with non-school qualification(s) (%),51.3,,55.7,,,,,60.0,,,Tasmania
+1270,SCHOOL_3,Non-school qualifications - Persons aged 15 years and over - Census,Postgraduate degree (%),2.4,,3.2,,,,,5.9,,,Tasmania
+1271,SCHOOL_4,Non-school qualifications - Persons aged 15 years and over - Census,Graduate diploma/graduate certificate (%),1.5,,1.8,,,,,2.2,,,Tasmania
+1272,SCHOOL_5,Non-school qualifications - Persons aged 15 years and over - Census,Bachelor degree (%),10.3,,11.2,,,,,13.8,,,Tasmania
+1273,SCHOOL_6,Non-school qualifications - Persons aged 15 years and over - Census,Advanced diploma/diploma (%),6.6,,7.5,,,,,7.9,,,Tasmania
+1274,SCHOOL_7,Non-school qualifications - Persons aged 15 years and over - Census,Certificate (%),20.2,,21.3,,,,,21.9,,,Tasmania
+1275,SCHOOL_9,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification inadequately described (%),1.0,,0.7,,,,,0.6,,,Tasmania
+1276,SCHOOL_10,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification not stated (%),9.2,,10.0,,,,,7.7,,,Tasmania
+1277,FIELD_2,Non-school qualification: field of study - Persons aged 15 years and over - Census,Natural and physical sciences (%),2.8,,2.8,,,,,3.0,,,Tasmania
+1278,FIELD_3,Non-school qualification: field of study - Persons aged 15 years and over - Census,Information technology (%),1.9,,1.9,,,,,2.7,,,Tasmania
+1279,FIELD_4,Non-school qualification: field of study - Persons aged 15 years and over - Census,Engineering and related technologies (%),15.9,,14.5,,,,,13.0,,,Tasmania
+1280,FIELD_5,Non-school qualification: field of study - Persons aged 15 years and over - Census,Architecture and building (%),6.6,,6.2,,,,,5.8,,,Tasmania
+1281,FIELD_6,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Agriculture, environmental and related studies (%)",3.1,,3.0,,,,,3.0,,,Tasmania
+1282,FIELD_7,Non-school qualification: field of study - Persons aged 15 years and over - Census,Health (%),9.7,,10.0,,,,,10.9,,,Tasmania
+1283,FIELD_8,Non-school qualification: field of study - Persons aged 15 years and over - Census,Education (%),8.2,,8.3,,,,,8.4,,,Tasmania
+1284,FIELD_9,Non-school qualification: field of study - Persons aged 15 years and over - Census,Management and commerce (%),14.3,,14.4,,,,,17.3,,,Tasmania
+1285,FIELD_10,Non-school qualification: field of study - Persons aged 15 years and over - Census,Society and culture (%),10.8,,11.9,,,,,12.7,,,Tasmania
+1286,FIELD_11,Non-school qualification: field of study - Persons aged 15 years and over - Census,Creative arts (%),2.8,,2.9,,,,,3.2,,,Tasmania
+1287,FIELD_12,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Food, hospitality and personal services (%)",5.9,,5.7,,,,,5.5,,,Tasmania
+1288,FIELD_13,Non-school qualification: field of study - Persons aged 15 years and over - Census,Mixed field programmes (%),0.1,,0.3,,,,,0.1,,,Tasmania
+1289,FIELD_15,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study inadequately described (%),1.2,,1.2,,,,,1.4,,,Tasmania
+1290,FIELD_16,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study not stated (%),16.8,,16.8,,,,,12.8,,,Tasmania
+1304,LF_4,Labour force status - Persons aged 15 years and over - Census,Unemployment rate (%),6.4,,7.0,,,,,5.9,,,Tasmania
+1486,QUALMIG_2,Level of highest educational attainment of persons born overseas - Census,Postgraduate degree level (%),,,9.1,,,,,18.5,,,Tasmania
+1487,QUALMIG_3,Level of highest educational attainment of persons born overseas - Census,Graduate diploma and graduate certificate level (%),,,2.5,,,,,2.6,,,Tasmania
+1488,QUALMIG_4,Level of highest educational attainment of persons born overseas - Census,Bachelor degree level (%),,,18.8,,,,,24.2,,,Tasmania
+1489,QUALMIG_5,Level of highest educational attainment of persons born overseas - Census,Advanced diploma and diploma level (%),,,10.8,,,,,10.0,,,Tasmania
+1490,QUALMIG_6,Level of highest educational attainment of persons born overseas - Census,Certificate level (%),,,13.9,,,,,11.2,,,Tasmania
+1491,QUALMIG_7,Level of highest educational attainment of persons born overseas - Census,School education level (%),,,34.5,,,,,25.4,,,Tasmania
+1492,QUALMIG_8,Level of highest educational attainment of persons born overseas - Census,Education not stated (%),,,5.5,,,,,3.9,,,Tasmania
+1506,LFMIG_5,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Unemployment rate (%),,,8.4,,,,,7.6,,,Tasmania
+1771,ING_EETP1,"Engagement in employment, education or training - Census",Fully engaged (%),37.9,,38.0,,,,,37.5,,,South Australia
+1772,ING_EETP2,"Engagement in employment, education or training - Census",Partially or at least partially engaged (%),17.1,,17.3,,,,,18.7,,,South Australia
+1773,ING_EETP3,"Engagement in employment, education or training - Census",Not engaged (%),45.1,,44.6,,,,,43.8,,,South Australia
+1774,ING_YR12ATT,Education - Census,Attained year 12 or equivalent or Certificate III or above (aged 20-24 years) (Closing the Gap measure) (%),48.0,,61.4,,,,,64.6,,,South Australia
+1799,ING_DISAB3,Disability status,Schooling/employment restriction only (no.),,,,,,3100.0,,,,,South Australia
+1859,CABEE_22,Number of businesses by industry - at 30 June,Education and training (no.),,,,,,1650.0,1663.0,1815.0,2017.0,2054.0,South Australia
+1919,EMP_IND_2,Industry of employment - Persons aged 15 years and over - Census,"Agriculture, forestry and fishing (%)",3.9,,4.0,,,,,3.8,,,South Australia
+1920,EMP_IND_3,Industry of employment - Persons aged 15 years and over - Census,Mining (%),1.3,,1.2,,,,,1.3,,,South Australia
+1921,EMP_IND_4,Industry of employment - Persons aged 15 years and over - Census,Manufacturing (%),10.5,,8.0,,,,,7.2,,,South Australia
+1922,EMP_IND_5,Industry of employment - Persons aged 15 years and over - Census,"Electricity, gas, water and waste services (%)",1.3,,1.2,,,,,1.3,,,South Australia
+1923,EMP_IND_6,Industry of employment - Persons aged 15 years and over - Census,Construction (%),7.5,,7.6,,,,,8.3,,,South Australia
+1924,EMP_IND_7,Industry of employment - Persons aged 15 years and over - Census,Wholesale trade (%),3.5,,2.8,,,,,2.4,,,South Australia
+1925,EMP_IND_8,Industry of employment - Persons aged 15 years and over - Census,Retail trade (%),11.2,,10.7,,,,,9.7,,,South Australia
+1926,EMP_IND_9,Industry of employment - Persons aged 15 years and over - Census,Accommodation and food services (%),6.3,,6.7,,,,,6.6,,,South Australia
+1927,EMP_IND_10,Industry of employment - Persons aged 15 years and over - Census,"Transport, postal and warehousing (%)",4.2,,4.1,,,,,4.1,,,South Australia
+1928,EMP_IND_11,Industry of employment - Persons aged 15 years and over - Census,Information media and telecommunications (%),1.4,,1.3,,,,,1.0,,,South Australia
+1929,EMP_IND_12,Industry of employment - Persons aged 15 years and over - Census,Financial and insurance services (%),3.0,,2.7,,,,,2.8,,,South Australia
+1930,EMP_IND_13,Industry of employment - Persons aged 15 years and over - Census,"Rental, hiring and real estate services (%)",1.3,,1.3,,,,,1.2,,,South Australia
+1931,EMP_IND_14,Industry of employment - Persons aged 15 years and over - Census,"Professional, scientific and technical services (%)",5.5,,5.6,,,,,6.2,,,South Australia
+1932,EMP_IND_15,Industry of employment - Persons aged 15 years and over - Census,Administrative and support services (%),3.4,,3.6,,,,,3.8,,,South Australia
+1933,EMP_IND_16,Industry of employment - Persons aged 15 years and over - Census,Public administration and safety (%),7.1,,7.1,,,,,6.7,,,South Australia
+1934,EMP_IND_17,Industry of employment - Persons aged 15 years and over - Census,Education and training (%),7.9,,8.6,,,,,8.8,,,South Australia
+1935,EMP_IND_18,Industry of employment - Persons aged 15 years and over - Census,Health care and social assistance (%),13.6,,14.8,,,,,16.4,,,South Australia
+1936,EMP_IND_19,Industry of employment - Persons aged 15 years and over - Census,Arts and recreation services (%),1.3,,1.4,,,,,1.4,,,South Australia
+1937,EMP_IND_20,Industry of employment - Persons aged 15 years and over - Census,Other services (%),3.9,,3.9,,,,,3.9,,,South Australia
+1938,EMP_IND_22,Industry of employment - Persons aged 15 years and over - Census,Industry of employment inadequately described or not stated (%),1.9,,3.3,,,,,3.3,,,South Australia
+1939,EMP_IND_21,Industry of employment - Persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),739359.0,,746105.0,,,,,839414.0,,,South Australia
+2025,HELP_2,Higher Education Loan Program (HELP) - year ended 30 June,Persons who made a HELP repayment (no.),,,,36511.0,38399.0,50593.0,65807.0,73191.0,77821.0,,South Australia
+2044,LEED_20,Jobs in Australia - year ended 30 June,Number of employee jobs - education and training,,,100236.0,100894.0,104328.0,101694.0,105009.0,,,,South Australia
+2056,SCHOOL_2,Non-school qualifications - Persons aged 15 years and over - Census,Total persons with non-school qualification(s) (%),51.9,,56.3,,,,,59.2,,,South Australia
+2057,SCHOOL_3,Non-school qualifications - Persons aged 15 years and over - Census,Postgraduate degree (%),2.7,,3.7,,,,,5.2,,,South Australia
+2058,SCHOOL_4,Non-school qualifications - Persons aged 15 years and over - Census,Graduate diploma/graduate certificate (%),1.5,,1.8,,,,,2.2,,,South Australia
+2059,SCHOOL_5,Non-school qualifications - Persons aged 15 years and over - Census,Bachelor degree (%),11.6,,13.0,,,,,15.2,,,South Australia
+2060,SCHOOL_6,Non-school qualifications - Persons aged 15 years and over - Census,Advanced diploma/diploma (%),7.3,,8.3,,,,,8.6,,,South Australia
+2061,SCHOOL_7,Non-school qualifications - Persons aged 15 years and over - Census,Certificate (%),18.8,,20.1,,,,,20.7,,,South Australia
+2062,SCHOOL_9,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification inadequately described (%),1.1,,0.8,,,,,0.6,,,South Australia
+2063,SCHOOL_10,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification not stated (%),8.9,,8.5,,,,,6.6,,,South Australia
+2064,FIELD_2,Non-school qualification: field of study - Persons aged 15 years and over - Census,Natural and physical sciences (%),2.8,,2.9,,,,,3.0,,,South Australia
+2065,FIELD_3,Non-school qualification: field of study - Persons aged 15 years and over - Census,Information technology (%),2.2,,2.2,,,,,2.8,,,South Australia
+2066,FIELD_4,Non-school qualification: field of study - Persons aged 15 years and over - Census,Engineering and related technologies (%),16.8,,15.8,,,,,14.6,,,South Australia
+2067,FIELD_5,Non-school qualification: field of study - Persons aged 15 years and over - Census,Architecture and building (%),5.0,,5.0,,,,,4.8,,,South Australia
+2068,FIELD_6,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Agriculture, environmental and related studies (%)",2.4,,2.4,,,,,2.4,,,South Australia
+2069,FIELD_7,Non-school qualification: field of study - Persons aged 15 years and over - Census,Health (%),10.8,,11.2,,,,,12.2,,,South Australia
+2070,FIELD_8,Non-school qualification: field of study - Persons aged 15 years and over - Census,Education (%),7.3,,7.6,,,,,8.1,,,South Australia
+2071,FIELD_9,Non-school qualification: field of study - Persons aged 15 years and over - Census,Management and commerce (%),16.2,,17.0,,,,,17.9,,,South Australia
+2072,FIELD_10,Non-school qualification: field of study - Persons aged 15 years and over - Census,Society and culture (%),11.0,,12.2,,,,,13.2,,,South Australia
+2073,FIELD_11,Non-school qualification: field of study - Persons aged 15 years and over - Census,Creative arts (%),2.8,,2.8,,,,,3.2,,,South Australia
+2074,FIELD_12,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Food, hospitality and personal services (%)",5.2,,5.2,,,,,5.2,,,South Australia
+2075,FIELD_13,Non-school qualification: field of study - Persons aged 15 years and over - Census,Mixed field programmes (%),0.2,,0.3,,,,,0.1,,,South Australia
+2076,FIELD_15,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study inadequately described (%),1.2,,1.2,,,,,1.5,,,South Australia
+2077,FIELD_16,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study not stated (%),16.2,,14.1,,,,,11.0,,,South Australia
+2091,LF_4,Labour force status - Persons aged 15 years and over - Census,Unemployment rate (%),5.7,,7.5,,,,,5.4,,,South Australia
+2273,QUALMIG_2,Level of highest educational attainment of persons born overseas - Census,Postgraduate degree level (%),,,7.4,,,,,10.6,,,South Australia
+2274,QUALMIG_3,Level of highest educational attainment of persons born overseas - Census,Graduate diploma and graduate certificate level (%),,,1.7,,,,,2.1,,,South Australia
+2275,QUALMIG_4,Level of highest educational attainment of persons born overseas - Census,Bachelor degree level (%),,,17.2,,,,,20.2,,,South Australia
+2276,QUALMIG_5,Level of highest educational attainment of persons born overseas - Census,Advanced diploma and diploma level (%),,,9.3,,,,,9.7,,,South Australia
+2277,QUALMIG_6,Level of highest educational attainment of persons born overseas - Census,Certificate level (%),,,13.7,,,,,13.0,,,South Australia
+2278,QUALMIG_7,Level of highest educational attainment of persons born overseas - Census,School education level (%),,,40.2,,,,,35.5,,,South Australia
+2279,QUALMIG_8,Level of highest educational attainment of persons born overseas - Census,Education not stated (%),,,5.1,,,,,3.8,,,South Australia
+2293,LFMIG_5,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Unemployment rate (%),,,9.3,,,,,5.9,,,South Australia
+2557,ING_EETP1,"Engagement in employment, education or training - Census",Fully engaged (%),45.4,,46.0,,,,,47.0,,,Victoria
+2558,ING_EETP2,"Engagement in employment, education or training - Census",Partially or at least partially engaged (%),17.6,,18.0,,,,,19.1,,,Victoria
+2559,ING_EETP3,"Engagement in employment, education or training - Census",Not engaged (%),37.0,,36.0,,,,,33.9,,,Victoria
+2560,ING_YR12ATT,Education - Census,Attained year 12 or equivalent or Certificate III or above (aged 20-24 years) (Closing the Gap measure) (%),59.6,,69.6,,,,,72.6,,,Victoria
+2585,ING_DISAB3,Disability status,Schooling/employment restriction only (no.),,,,,,4908.0,,,,,Victoria
+2645,CABEE_22,Number of businesses by industry - at 30 June,Education and training (no.),,,,,,9176.0,9602.0,10020.0,11644.0,11395.0,Victoria
+2706,EMP_IND_2,Industry of employment - Persons aged 15 years and over - Census,"Agriculture, forestry and fishing (%)",2.3,,2.2,,,,,2.1,,,Victoria
+2707,EMP_IND_3,Industry of employment - Persons aged 15 years and over - Census,Mining (%),0.4,,0.3,,,,,0.3,,,Victoria
+2708,EMP_IND_4,Industry of employment - Persons aged 15 years and over - Census,Manufacturing (%),10.7,,7.8,,,,,7.0,,,Victoria
+2709,EMP_IND_5,Industry of employment - Persons aged 15 years and over - Census,"Electricity, gas, water and waste services (%)",1.1,,1.1,,,,,1.1,,,Victoria
+2710,EMP_IND_6,Industry of employment - Persons aged 15 years and over - Census,Construction (%),8.3,,8.3,,,,,9.4,,,Victoria
+2711,EMP_IND_7,Industry of employment - Persons aged 15 years and over - Census,Wholesale trade (%),4.5,,3.2,,,,,2.8,,,Victoria
+2712,EMP_IND_8,Industry of employment - Persons aged 15 years and over - Census,Retail trade (%),10.8,,10.2,,,,,9.4,,,Victoria
+2713,EMP_IND_9,Industry of employment - Persons aged 15 years and over - Census,Accommodation and food services (%),6.1,,6.6,,,,,6.2,,,Victoria
+2714,EMP_IND_10,Industry of employment - Persons aged 15 years and over - Census,"Transport, postal and warehousing (%)",4.7,,4.8,,,,,4.7,,,Victoria
+2715,EMP_IND_11,Industry of employment - Persons aged 15 years and over - Census,Information media and telecommunications (%),2.0,,1.9,,,,,1.6,,,Victoria
+2716,EMP_IND_12,Industry of employment - Persons aged 15 years and over - Census,Financial and insurance services (%),4.1,,3.9,,,,,4.1,,,Victoria
+2717,EMP_IND_13,Industry of employment - Persons aged 15 years and over - Census,"Rental, hiring and real estate services (%)",1.4,,1.6,,,,,1.5,,,Victoria
+2718,EMP_IND_14,Industry of employment - Persons aged 15 years and over - Census,"Professional, scientific and technical services (%)",7.8,,7.9,,,,,8.4,,,Victoria
+2719,EMP_IND_15,Industry of employment - Persons aged 15 years and over - Census,Administrative and support services (%),3.3,,3.4,,,,,3.1,,,Victoria
+2720,EMP_IND_16,Industry of employment - Persons aged 15 years and over - Census,Public administration and safety (%),5.3,,5.3,,,,,5.6,,,Victoria
+2721,EMP_IND_17,Industry of employment - Persons aged 15 years and over - Census,Education and training (%),8.0,,8.6,,,,,8.8,,,Victoria
+2722,EMP_IND_18,Industry of employment - Persons aged 15 years and over - Census,Health care and social assistance (%),11.6,,12.5,,,,,14.1,,,Victoria
+2723,EMP_IND_19,Industry of employment - Persons aged 15 years and over - Census,Arts and recreation services (%),1.7,,1.9,,,,,1.7,,,Victoria
+2724,EMP_IND_20,Industry of employment - Persons aged 15 years and over - Census,Other services (%),3.6,,3.6,,,,,3.5,,,Victoria
+2725,EMP_IND_22,Industry of employment - Persons aged 15 years and over - Census,Industry of employment inadequately described or not stated (%),2.4,,4.7,,,,,4.6,,,Victoria
+2726,EMP_IND_21,Industry of employment - Persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),2530628.0,,2736127.0,,,,,3162893.0,,,Victoria
+2812,HELP_2,Higher Education Loan Program (HELP) - year ended 30 June,Persons who made a HELP repayment (no.),,,,168446.0,175389.0,230418.0,292907.0,311824.0,327039.0,,Victoria
+2831,LEED_20,Jobs in Australia - year ended 30 June,Number of employee jobs - education and training,,,375717.0,377322.0,382748.0,302348.0,389081.0,,,,Victoria
+2843,SCHOOL_2,Non-school qualifications - Persons aged 15 years and over - Census,Total persons with non-school qualification(s) (%),56.1,,60.4,,,,,63.5,,,Victoria
+2844,SCHOOL_3,Non-school qualifications - Persons aged 15 years and over - Census,Postgraduate degree (%),3.9,,5.4,,,,,7.5,,,Victoria
+2845,SCHOOL_4,Non-school qualifications - Persons aged 15 years and over - Census,Graduate diploma/graduate certificate (%),2.2,,2.5,,,,,2.9,,,Victoria
+2846,SCHOOL_5,Non-school qualifications - Persons aged 15 years and over - Census,Bachelor degree (%),14.7,,16.5,,,,,18.8,,,Victoria
+2847,SCHOOL_6,Non-school qualifications - Persons aged 15 years and over - Census,Advanced diploma/diploma (%),8.4,,9.2,,,,,9.8,,,Victoria
+2848,SCHOOL_7,Non-school qualifications - Persons aged 15 years and over - Census,Certificate (%),16.4,,16.9,,,,,16.7,,,Victoria
+2849,SCHOOL_9,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification inadequately described (%),1.0,,0.8,,,,,0.6,,,Victoria
+2850,SCHOOL_10,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification not stated (%),9.5,,9.2,,,,,7.3,,,Victoria
+2851,FIELD_2,Non-school qualification: field of study - Persons aged 15 years and over - Census,Natural and physical sciences (%),3.0,,3.2,,,,,3.4,,,Victoria
+2852,FIELD_3,Non-school qualification: field of study - Persons aged 15 years and over - Census,Information technology (%),3.4,,3.7,,,,,4.4,,,Victoria
+2853,FIELD_4,Non-school qualification: field of study - Persons aged 15 years and over - Census,Engineering and related technologies (%),14.5,,13.5,,,,,12.7,,,Victoria
+2854,FIELD_5,Non-school qualification: field of study - Persons aged 15 years and over - Census,Architecture and building (%),5.5,,5.5,,,,,5.5,,,Victoria
+2855,FIELD_6,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Agriculture, environmental and related studies (%)",1.9,,1.9,,,,,1.8,,,Victoria
+2856,FIELD_7,Non-school qualification: field of study - Persons aged 15 years and over - Census,Health (%),9.1,,9.4,,,,,10.3,,,Victoria
+2857,FIELD_8,Non-school qualification: field of study - Persons aged 15 years and over - Census,Education (%),7.5,,7.5,,,,,8.0,,,Victoria
+2858,FIELD_9,Non-school qualification: field of study - Persons aged 15 years and over - Census,Management and commerce (%),17.8,,18.6,,,,,19.2,,,Victoria
+2859,FIELD_10,Non-school qualification: field of study - Persons aged 15 years and over - Census,Society and culture (%),10.6,,11.7,,,,,12.3,,,Victoria
+2860,FIELD_11,Non-school qualification: field of study - Persons aged 15 years and over - Census,Creative arts (%),3.8,,4.0,,,,,4.4,,,Victoria
+2861,FIELD_12,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Food, hospitality and personal services (%)",5.1,,4.9,,,,,4.7,,,Victoria
+2862,FIELD_13,Non-school qualification: field of study - Persons aged 15 years and over - Census,Mixed field programmes (%),0.1,,0.3,,,,,0.1,,,Victoria
+2863,FIELD_15,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study inadequately described (%),1.5,,1.5,,,,,1.8,,,Victoria
+2864,FIELD_16,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study not stated (%),16.1,,14.4,,,,,11.4,,,Victoria
+2878,LF_4,Labour force status - Persons aged 15 years and over - Census,Unemployment rate (%),5.4,,6.6,,,,,5.0,,,Victoria
+3060,QUALMIG_2,Level of highest educational attainment of persons born overseas - Census,Postgraduate degree level (%),,,9.4,,,,,12.9,,,Victoria
+3061,QUALMIG_3,Level of highest educational attainment of persons born overseas - Census,Graduate diploma and graduate certificate level (%),,,2.0,,,,,2.4,,,Victoria
+3062,QUALMIG_4,Level of highest educational attainment of persons born overseas - Census,Bachelor degree level (%),,,20.8,,,,,23.2,,,Victoria
+3063,QUALMIG_5,Level of highest educational attainment of persons born overseas - Census,Advanced diploma and diploma level (%),,,9.9,,,,,10.5,,,Victoria
+3064,QUALMIG_6,Level of highest educational attainment of persons born overseas - Census,Certificate level (%),,,10.1,,,,,9.5,,,Victoria
+3065,QUALMIG_7,Level of highest educational attainment of persons born overseas - Census,School education level (%),,,37.9,,,,,32.6,,,Victoria
+3066,QUALMIG_8,Level of highest educational attainment of persons born overseas - Census,Education not stated (%),,,4.6,,,,,3.7,,,Victoria
+3080,LFMIG_5,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Unemployment rate (%),,,8.5,,,,,6.0,,,Victoria
+3344,ING_EETP1,"Engagement in employment, education or training - Census",Fully engaged (%),35.8,,36.5,,,,,38.2,,,Western Australia
+3345,ING_EETP2,"Engagement in employment, education or training - Census",Partially or at least partially engaged (%),17.0,,15.1,,,,,16.7,,,Western Australia
+3346,ING_EETP3,"Engagement in employment, education or training - Census",Not engaged (%),47.2,,48.4,,,,,45.1,,,Western Australia
+3347,ING_YR12ATT,Education - Census,Attained year 12 or equivalent or Certificate III or above (aged 20-24 years) (Closing the Gap measure) (%),43.4,,57.4,,,,,61.1,,,Western Australia
+3372,ING_DISAB3,Disability status,Schooling/employment restriction only (no.),,,,,,4988.0,,,,,Western Australia
+3432,CABEE_22,Number of businesses by industry - at 30 June,Education and training (no.),,,,,,2712.0,2801.0,2941.0,3137.0,3235.0,Western Australia
+3492,EMP_IND_2,Industry of employment - Persons aged 15 years and over - Census,"Agriculture, forestry and fishing (%)",2.4,,2.5,,,,,2.3,,,Western Australia
+3493,EMP_IND_3,Industry of employment - Persons aged 15 years and over - Census,Mining (%),6.2,,6.3,,,,,7.5,,,Western Australia
+3494,EMP_IND_4,Industry of employment - Persons aged 15 years and over - Census,Manufacturing (%),8.2,,5.6,,,,,5.3,,,Western Australia
+3495,EMP_IND_5,Industry of employment - Persons aged 15 years and over - Census,"Electricity, gas, water and waste services (%)",1.1,,1.2,,,,,1.2,,,Western Australia
+3496,EMP_IND_6,Industry of employment - Persons aged 15 years and over - Census,Construction (%),10.2,,9.8,,,,,8.8,,,Western Australia
+3497,EMP_IND_7,Industry of employment - Persons aged 15 years and over - Census,Wholesale trade (%),3.6,,2.5,,,,,2.5,,,Western Australia
+3498,EMP_IND_8,Industry of employment - Persons aged 15 years and over - Census,Retail trade (%),10.1,,9.5,,,,,8.8,,,Western Australia
+3499,EMP_IND_9,Industry of employment - Persons aged 15 years and over - Census,Accommodation and food services (%),5.9,,6.4,,,,,6.5,,,Western Australia
+3500,EMP_IND_10,Industry of employment - Persons aged 15 years and over - Census,"Transport, postal and warehousing (%)",4.5,,4.6,,,,,4.5,,,Western Australia
+3501,EMP_IND_11,Industry of employment - Persons aged 15 years and over - Census,Information media and telecommunications (%),1.1,,1.0,,,,,0.8,,,Western Australia
+3502,EMP_IND_12,Industry of employment - Persons aged 15 years and over - Census,Financial and insurance services (%),2.5,,2.4,,,,,2.2,,,Western Australia
+3503,EMP_IND_13,Industry of employment - Persons aged 15 years and over - Census,"Rental, hiring and real estate services (%)",1.7,,1.7,,,,,1.4,,,Western Australia
+3504,EMP_IND_14,Industry of employment - Persons aged 15 years and over - Census,"Professional, scientific and technical services (%)",7.2,,6.4,,,,,6.9,,,Western Australia
+3505,EMP_IND_15,Industry of employment - Persons aged 15 years and over - Census,Administrative and support services (%),3.1,,3.3,,,,,3.1,,,Western Australia
+3506,EMP_IND_16,Industry of employment - Persons aged 15 years and over - Census,Public administration and safety (%),6.2,,6.2,,,,,5.9,,,Western Australia
+3507,EMP_IND_17,Industry of employment - Persons aged 15 years and over - Census,Education and training (%),8.0,,8.7,,,,,8.8,,,Western Australia
+3508,EMP_IND_18,Industry of employment - Persons aged 15 years and over - Census,Health care and social assistance (%),10.4,,11.7,,,,,13.6,,,Western Australia
+3509,EMP_IND_19,Industry of employment - Persons aged 15 years and over - Census,Arts and recreation services (%),1.3,,1.6,,,,,1.6,,,Western Australia
+3510,EMP_IND_20,Industry of employment - Persons aged 15 years and over - Census,Other services (%),3.9,,4.0,,,,,3.9,,,Western Australia
+3511,EMP_IND_22,Industry of employment - Persons aged 15 years and over - Census,Industry of employment inadequately described or not stated (%),2.2,,4.6,,,,,4.6,,,Western Australia
+3512,EMP_IND_21,Industry of employment - Persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),1097879.0,,1157735.0,,,,,1306249.0,,,Western Australia
+3598,HELP_2,Higher Education Loan Program (HELP) - year ended 30 June,Persons who made a HELP repayment (no.),,,,51207.0,51138.0,64926.0,82999.0,94125.0,103555.0,,Western Australia
+3617,LEED_20,Jobs in Australia - year ended 30 June,Number of employee jobs - education and training,,,147518.0,150274.0,148499.0,153292.0,144282.0,,,,Western Australia
+3629,SCHOOL_2,Non-school qualifications - Persons aged 15 years and over - Census,Total persons with non-school qualification(s) (%),56.7,,61.1,,,,,63.5,,,Western Australia
+3630,SCHOOL_3,Non-school qualifications - Persons aged 15 years and over - Census,Postgraduate degree (%),2.9,,3.8,,,,,5.1,,,Western Australia
+3631,SCHOOL_4,Non-school qualifications - Persons aged 15 years and over - Census,Graduate diploma/graduate certificate (%),1.6,,1.9,,,,,2.3,,,Western Australia
+3632,SCHOOL_5,Non-school qualifications - Persons aged 15 years and over - Census,Bachelor degree (%),13.0,,14.8,,,,,16.4,,,Western Australia
+3633,SCHOOL_6,Non-school qualifications - Persons aged 15 years and over - Census,Advanced diploma/diploma (%),8.1,,8.9,,,,,9.3,,,Western Australia
+3634,SCHOOL_7,Non-school qualifications - Persons aged 15 years and over - Census,Certificate (%),19.5,,20.4,,,,,21.1,,,Western Australia
+3635,SCHOOL_9,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification inadequately described (%),2.0,,0.8,,,,,0.8,,,Western Australia
+3636,SCHOOL_10,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification not stated (%),9.6,,10.4,,,,,8.4,,,Western Australia
+3637,FIELD_2,Non-school qualification: field of study - Persons aged 15 years and over - Census,Natural and physical sciences (%),3.1,,3.2,,,,,3.4,,,Western Australia
+3638,FIELD_3,Non-school qualification: field of study - Persons aged 15 years and over - Census,Information technology (%),2.1,,2.2,,,,,2.5,,,Western Australia
+3639,FIELD_4,Non-school qualification: field of study - Persons aged 15 years and over - Census,Engineering and related technologies (%),18.6,,18.1,,,,,17.1,,,Western Australia
+3640,FIELD_5,Non-school qualification: field of study - Persons aged 15 years and over - Census,Architecture and building (%),5.7,,5.5,,,,,5.0,,,Western Australia
+3641,FIELD_6,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Agriculture, environmental and related studies (%)",2.1,,2.0,,,,,2.0,,,Western Australia
+3642,FIELD_7,Non-school qualification: field of study - Persons aged 15 years and over - Census,Health (%),9.0,,9.6,,,,,10.6,,,Western Australia
+3643,FIELD_8,Non-school qualification: field of study - Persons aged 15 years and over - Census,Education (%),7.5,,7.5,,,,,8.0,,,Western Australia
+3644,FIELD_9,Non-school qualification: field of study - Persons aged 15 years and over - Census,Management and commerce (%),16.1,,16.8,,,,,17.6,,,Western Australia
+3645,FIELD_10,Non-school qualification: field of study - Persons aged 15 years and over - Census,Society and culture (%),9.0,,9.7,,,,,10.8,,,Western Australia
+3646,FIELD_11,Non-school qualification: field of study - Persons aged 15 years and over - Census,Creative arts (%),2.8,,2.9,,,,,3.2,,,Western Australia
+3647,FIELD_12,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Food, hospitality and personal services (%)",5.1,,5.0,,,,,5.1,,,Western Australia
+3648,FIELD_13,Non-school qualification: field of study - Persons aged 15 years and over - Census,Mixed field programmes (%),0.1,,0.3,,,,,0.2,,,Western Australia
+3649,FIELD_15,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study inadequately described (%),1.0,,1.1,,,,,1.4,,,Western Australia
+3650,FIELD_16,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study not stated (%),17.8,,16.0,,,,,13.1,,,Western Australia
+3664,LF_4,Labour force status - Persons aged 15 years and over - Census,Unemployment rate (%),4.7,,7.8,,,,,5.1,,,Western Australia
+3846,QUALMIG_2,Level of highest educational attainment of persons born overseas - Census,Postgraduate degree level (%),,,6.8,,,,,8.7,,,Western Australia
+3847,QUALMIG_3,Level of highest educational attainment of persons born overseas - Census,Graduate diploma and graduate certificate level (%),,,1.9,,,,,2.3,,,Western Australia
+3848,QUALMIG_4,Level of highest educational attainment of persons born overseas - Census,Bachelor degree level (%),,,19.5,,,,,21.5,,,Western Australia
+3849,QUALMIG_5,Level of highest educational attainment of persons born overseas - Census,Advanced diploma and diploma level (%),,,11.1,,,,,11.5,,,Western Australia
+3850,QUALMIG_6,Level of highest educational attainment of persons born overseas - Census,Certificate level (%),,,15.9,,,,,15.5,,,Western Australia
+3851,QUALMIG_7,Level of highest educational attainment of persons born overseas - Census,School education level (%),,,35.9,,,,,32.6,,,Western Australia
+3852,QUALMIG_8,Level of highest educational attainment of persons born overseas - Census,Education not stated (%),,,4.5,,,,,3.6,,,Western Australia
+3866,LFMIG_5,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Unemployment rate (%),,,8.1,,,,,4.7,,,Western Australia
+4132,ING_EETP1,"Engagement in employment, education or training - Census",Fully engaged (%),41.1,,40.7,,,,,41.7,,,Queensland
+4133,ING_EETP2,"Engagement in employment, education or training - Census",Partially or at least partially engaged (%),17.3,,16.7,,,,,19.0,,,Queensland
+4134,ING_EETP3,"Engagement in employment, education or training - Census",Not engaged (%),41.6,,42.6,,,,,39.2,,,Queensland
+4135,ING_YR12ATT,Education - Census,Attained year 12 or equivalent or Certificate III or above (aged 20-24 years) (Closing the Gap measure) (%),60.9,,69.5,,,,,75.0,,,Queensland
+4160,ING_DISAB3,Disability status,Schooling/employment restriction only (no.),,,,,,12806.0,,,,,Queensland
+4220,CABEE_22,Number of businesses by industry - at 30 June,Education and training (no.),,,,,,6600.0,6792.0,7148.0,7606.0,7769.0,Queensland
+4281,EMP_IND_2,Industry of employment - Persons aged 15 years and over - Census,"Agriculture, forestry and fishing (%)",2.7,,2.8,,,,,2.6,,,Queensland
+4282,EMP_IND_3,Industry of employment - Persons aged 15 years and over - Census,Mining (%),2.6,,2.3,,,,,2.3,,,Queensland
+4283,EMP_IND_4,Industry of employment - Persons aged 15 years and over - Census,Manufacturing (%),8.4,,6.0,,,,,5.7,,,Queensland
+4284,EMP_IND_5,Industry of employment - Persons aged 15 years and over - Census,"Electricity, gas, water and waste services (%)",1.2,,1.1,,,,,1.2,,,Queensland
+4285,EMP_IND_6,Industry of employment - Persons aged 15 years and over - Census,Construction (%),9.0,,9.0,,,,,9.1,,,Queensland
+4286,EMP_IND_7,Industry of employment - Persons aged 15 years and over - Census,Wholesale trade (%),3.6,,2.6,,,,,2.4,,,Queensland
+4287,EMP_IND_8,Industry of employment - Persons aged 15 years and over - Census,Retail trade (%),10.7,,9.9,,,,,9.3,,,Queensland
+4288,EMP_IND_9,Industry of employment - Persons aged 15 years and over - Census,Accommodation and food services (%),7.0,,7.3,,,,,7.2,,,Queensland
+4289,EMP_IND_10,Industry of employment - Persons aged 15 years and over - Census,"Transport, postal and warehousing (%)",5.3,,5.1,,,,,4.7,,,Queensland
+4290,EMP_IND_11,Industry of employment - Persons aged 15 years and over - Census,Information media and telecommunications (%),1.2,,1.2,,,,,1.0,,,Queensland
+4291,EMP_IND_12,Industry of employment - Persons aged 15 years and over - Census,Financial and insurance services (%),2.7,,2.5,,,,,2.6,,,Queensland
+4292,EMP_IND_13,Industry of employment - Persons aged 15 years and over - Census,"Rental, hiring and real estate services (%)",1.8,,2.0,,,,,1.8,,,Queensland
+4293,EMP_IND_14,Industry of employment - Persons aged 15 years and over - Census,"Professional, scientific and technical services (%)",6.5,,6.3,,,,,6.7,,,Queensland
+4294,EMP_IND_15,Industry of employment - Persons aged 15 years and over - Census,Administrative and support services (%),3.2,,3.5,,,,,3.4,,,Queensland
+4295,EMP_IND_16,Industry of employment - Persons aged 15 years and over - Census,Public administration and safety (%),6.7,,6.6,,,,,6.2,,,Queensland
+4296,EMP_IND_17,Industry of employment - Persons aged 15 years and over - Census,Education and training (%),7.9,,9.0,,,,,8.8,,,Queensland
+4297,EMP_IND_18,Industry of employment - Persons aged 15 years and over - Census,Health care and social assistance (%),11.9,,13.0,,,,,15.4,,,Queensland
+4298,EMP_IND_19,Industry of employment - Persons aged 15 years and over - Census,Arts and recreation services (%),1.4,,1.6,,,,,1.5,,,Queensland
+4299,EMP_IND_20,Industry of employment - Persons aged 15 years and over - Census,Other services (%),3.9,,3.9,,,,,3.9,,,Queensland
+4300,EMP_IND_22,Industry of employment - Persons aged 15 years and over - Census,Industry of employment inadequately described or not stated (%),2.4,,4.3,,,,,4.5,,,Queensland
+4301,EMP_IND_21,Industry of employment - Persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),2039276.0,,2136450.0,,,,,2444090.0,,,Queensland
+4387,HELP_2,Higher Education Loan Program (HELP) - year ended 30 June,Persons who made a HELP repayment (no.),,,,115087.0,119501.0,157710.0,205876.0,225896.0,242380.0,,Queensland
+4406,LEED_20,Jobs in Australia - year ended 30 June,Number of employee jobs - education and training,,,288696.0,290973.0,290489.0,294455.0,299824.0,,,,Queensland
+4418,SCHOOL_2,Non-school qualifications - Persons aged 15 years and over - Census,Total persons with non-school qualification(s) (%),54.2,,59.1,,,,,62.5,,,Queensland
+4419,SCHOOL_3,Non-school qualifications - Persons aged 15 years and over - Census,Postgraduate degree (%),2.7,,3.5,,,,,4.7,,,Queensland
+4420,SCHOOL_4,Non-school qualifications - Persons aged 15 years and over - Census,Graduate diploma/graduate certificate (%),1.4,,1.8,,,,,2.2,,,Queensland
+4421,SCHOOL_5,Non-school qualifications - Persons aged 15 years and over - Census,Bachelor degree (%),11.7,,13.0,,,,,15.0,,,Queensland
+4422,SCHOOL_6,Non-school qualifications - Persons aged 15 years and over - Census,Advanced diploma/diploma (%),7.5,,8.7,,,,,9.4,,,Queensland
+4423,SCHOOL_7,Non-school qualifications - Persons aged 15 years and over - Census,Certificate (%),19.9,,21.3,,,,,22.1,,,Queensland
+4424,SCHOOL_9,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification inadequately described (%),1.1,,0.7,,,,,0.6,,,Queensland
+4425,SCHOOL_10,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification not stated (%),9.8,,10.1,,,,,8.4,,,Queensland
+4426,FIELD_2,Non-school qualification: field of study - Persons aged 15 years and over - Census,Natural and physical sciences (%),2.3,,2.3,,,,,2.4,,,Queensland
+4427,FIELD_3,Non-school qualification: field of study - Persons aged 15 years and over - Census,Information technology (%),2.2,,2.2,,,,,2.5,,,Queensland
+4428,FIELD_4,Non-school qualification: field of study - Persons aged 15 years and over - Census,Engineering and related technologies (%),16.8,,15.7,,,,,14.5,,,Queensland
+4429,FIELD_5,Non-school qualification: field of study - Persons aged 15 years and over - Census,Architecture and building (%),6.6,,6.2,,,,,5.8,,,Queensland
+4430,FIELD_6,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Agriculture, environmental and related studies (%)",2.0,,1.9,,,,,1.9,,,Queensland
+4431,FIELD_7,Non-school qualification: field of study - Persons aged 15 years and over - Census,Health (%),9.3,,9.8,,,,,10.9,,,Queensland
+4432,FIELD_8,Non-school qualification: field of study - Persons aged 15 years and over - Census,Education (%),7.5,,7.5,,,,,7.8,,,Queensland
+4433,FIELD_9,Non-school qualification: field of study - Persons aged 15 years and over - Census,Management and commerce (%),16.6,,17.5,,,,,18.4,,,Queensland
+4434,FIELD_10,Non-school qualification: field of study - Persons aged 15 years and over - Census,Society and culture (%),9.6,,10.7,,,,,11.8,,,Queensland
+4435,FIELD_11,Non-school qualification: field of study - Persons aged 15 years and over - Census,Creative arts (%),2.8,,3.0,,,,,3.3,,,Queensland
+4436,FIELD_12,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Food, hospitality and personal services (%)",5.6,,5.5,,,,,5.6,,,Queensland
+4437,FIELD_13,Non-school qualification: field of study - Persons aged 15 years and over - Census,Mixed field programmes (%),0.2,,0.3,,,,,0.2,,,Queensland
+4438,FIELD_15,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study inadequately described (%),1.1,,1.2,,,,,1.4,,,Queensland
+4439,FIELD_16,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study not stated (%),17.4,,16.1,,,,,13.6,,,Queensland
+4453,LF_4,Labour force status - Persons aged 15 years and over - Census,Unemployment rate (%),6.1,,7.6,,,,,5.4,,,Queensland
+4635,QUALMIG_2,Level of highest educational attainment of persons born overseas - Census,Postgraduate degree level (%),,,7.3,,,,,9.5,,,Queensland
+4636,QUALMIG_3,Level of highest educational attainment of persons born overseas - Census,Graduate diploma and graduate certificate level (%),,,1.8,,,,,2.2,,,Queensland
+4637,QUALMIG_4,Level of highest educational attainment of persons born overseas - Census,Bachelor degree level (%),,,18.3,,,,,21.1,,,Queensland
+4638,QUALMIG_5,Level of highest educational attainment of persons born overseas - Census,Advanced diploma and diploma level (%),,,10.8,,,,,11.5,,,Queensland
+4639,QUALMIG_6,Level of highest educational attainment of persons born overseas - Census,Certificate level (%),,,15.7,,,,,15.2,,,Queensland
+4640,QUALMIG_7,Level of highest educational attainment of persons born overseas - Census,School education level (%),,,37.1,,,,,32.5,,,Queensland
+4641,QUALMIG_8,Level of highest educational attainment of persons born overseas - Census,Education not stated (%),,,4.7,,,,,3.8,,,Queensland
+4655,LFMIG_5,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Unemployment rate (%),,,8.2,,,,,5.4,,,Queensland
+4924,ING_EETP1,"Engagement in employment, education or training - Census",Fully engaged (%),29.1,,28.1,,,,,25.4,,,Northern Territory
+4925,ING_EETP2,"Engagement in employment, education or training - Census",Partially or at least partially engaged (%),17.1,,12.4,,,,,12.5,,,Northern Territory
+4926,ING_EETP3,"Engagement in employment, education or training - Census",Not engaged (%),53.9,,59.6,,,,,62.1,,,Northern Territory
+4927,ING_YR12ATT,Education - Census,Attained year 12 or equivalent or Certificate III or above (aged 20-24 years) (Closing the Gap measure) (%),27.0,,37.5,,,,,40.2,,,Northern Territory
+4952,ING_DISAB3,Disability status,Schooling/employment restriction only (no.),,,,,,3845.0,,,,,Northern Territory
+5012,CABEE_22,Number of businesses by industry - at 30 June,Education and training (no.),,,,,,187.0,203.0,210.0,232.0,244.0,Northern Territory
+5072,EMP_IND_2,Industry of employment - Persons aged 15 years and over - Census,"Agriculture, forestry and fishing (%)",1.9,,2.0,,,,,2.3,,,Northern Territory
+5073,EMP_IND_3,Industry of employment - Persons aged 15 years and over - Census,Mining (%),2.7,,2.5,,,,,2.4,,,Northern Territory
+5074,EMP_IND_4,Industry of employment - Persons aged 15 years and over - Census,Manufacturing (%),4.0,,2.4,,,,,2.2,,,Northern Territory
+5075,EMP_IND_5,Industry of employment - Persons aged 15 years and over - Census,"Electricity, gas, water and waste services (%)",1.3,,1.6,,,,,1.5,,,Northern Territory
+5076,EMP_IND_6,Industry of employment - Persons aged 15 years and over - Census,Construction (%),8.2,,10.1,,,,,8.0,,,Northern Territory
+5077,EMP_IND_7,Industry of employment - Persons aged 15 years and over - Census,Wholesale trade (%),2.1,,1.7,,,,,1.5,,,Northern Territory
+5078,EMP_IND_8,Industry of employment - Persons aged 15 years and over - Census,Retail trade (%),8.1,,7.3,,,,,7.2,,,Northern Territory
+5079,EMP_IND_9,Industry of employment - Persons aged 15 years and over - Census,Accommodation and food services (%),6.2,,6.8,,,,,7.4,,,Northern Territory
+5080,EMP_IND_10,Industry of employment - Persons aged 15 years and over - Census,"Transport, postal and warehousing (%)",4.7,,4.4,,,,,4.0,,,Northern Territory
+5081,EMP_IND_11,Industry of employment - Persons aged 15 years and over - Census,Information media and telecommunications (%),1.1,,1.0,,,,,0.7,,,Northern Territory
+5082,EMP_IND_12,Industry of employment - Persons aged 15 years and over - Census,Financial and insurance services (%),1.3,,1.1,,,,,0.9,,,Northern Territory
+5083,EMP_IND_13,Industry of employment - Persons aged 15 years and over - Census,"Rental, hiring and real estate services (%)",1.5,,1.5,,,,,1.1,,,Northern Territory
+5084,EMP_IND_14,Industry of employment - Persons aged 15 years and over - Census,"Professional, scientific and technical services (%)",4.9,,5.5,,,,,4.9,,,Northern Territory
+5085,EMP_IND_15,Industry of employment - Persons aged 15 years and over - Census,Administrative and support services (%),3.0,,3.0,,,,,2.9,,,Northern Territory
+5086,EMP_IND_16,Industry of employment - Persons aged 15 years and over - Census,Public administration and safety (%),20.9,,18.1,,,,,18.2,,,Northern Territory
+5087,EMP_IND_17,Industry of employment - Persons aged 15 years and over - Census,Education and training (%),8.9,,9.3,,,,,9.4,,,Northern Territory
+5088,EMP_IND_18,Industry of employment - Persons aged 15 years and over - Census,Health care and social assistance (%),10.0,,11.1,,,,,14.9,,,Northern Territory
+5089,EMP_IND_19,Industry of employment - Persons aged 15 years and over - Census,Arts and recreation services (%),2.2,,2.1,,,,,2.3,,,Northern Territory
+5090,EMP_IND_20,Industry of employment - Persons aged 15 years and over - Census,Other services (%),4.8,,4.1,,,,,3.9,,,Northern Territory
+5091,EMP_IND_22,Industry of employment - Persons aged 15 years and over - Census,Industry of employment inadequately described or not stated (%),2.0,,4.6,,,,,4.2,,,Northern Territory
+5092,EMP_IND_21,Industry of employment - Persons aged 15 years and over - Census,Total persons employed aged 15 years and over (no.),98479.0,,102708.0,,,,,107035.0,,,Northern Territory
+5178,HELP_2,Higher Education Loan Program (HELP) - year ended 30 June,Persons who made a HELP repayment (no.),,,,6092.0,5958.0,6992.0,8168.0,8710.0,9167.0,,Northern Territory
+5197,LEED_20,Jobs in Australia - year ended 30 June,Number of employee jobs - education and training,,,16281.0,17739.0,17338.0,16983.0,16959.0,,,,Northern Territory
+5209,SCHOOL_2,Non-school qualifications - Persons aged 15 years and over - Census,Total persons with non-school qualification(s) (%),56.5,,62.2,,,,,61.2,,,Northern Territory
+5210,SCHOOL_3,Non-school qualifications - Persons aged 15 years and over - Census,Postgraduate degree (%),2.6,,3.5,,,,,5.6,,,Northern Territory
+5211,SCHOOL_4,Non-school qualifications - Persons aged 15 years and over - Census,Graduate diploma/graduate certificate (%),1.8,,2.0,,,,,2.3,,,Northern Territory
+5212,SCHOOL_5,Non-school qualifications - Persons aged 15 years and over - Census,Bachelor degree (%),10.4,,11.6,,,,,13.5,,,Northern Territory
+5213,SCHOOL_6,Non-school qualifications - Persons aged 15 years and over - Census,Advanced diploma/diploma (%),6.5,,7.2,,,,,7.5,,,Northern Territory
+5214,SCHOOL_7,Non-school qualifications - Persons aged 15 years and over - Census,Certificate (%),18.9,,19.8,,,,,19.2,,,Northern Territory
+5215,SCHOOL_9,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification inadequately described (%),1.0,,0.6,,,,,0.5,,,Northern Territory
+5216,SCHOOL_10,Non-school qualifications - Persons aged 15 years and over - Census,Non-school qualification not stated (%),15.3,,17.5,,,,,12.5,,,Northern Territory
+5217,FIELD_2,Non-school qualification: field of study - Persons aged 15 years and over - Census,Natural and physical sciences (%),2.1,,1.9,,,,,2.1,,,Northern Territory
+5218,FIELD_3,Non-school qualification: field of study - Persons aged 15 years and over - Census,Information technology (%),1.8,,1.7,,,,,2.3,,,Northern Territory
+5219,FIELD_4,Non-school qualification: field of study - Persons aged 15 years and over - Census,Engineering and related technologies (%),15.1,,15.1,,,,,13.4,,,Northern Territory
+5220,FIELD_5,Non-school qualification: field of study - Persons aged 15 years and over - Census,Architecture and building (%),4.9,,4.8,,,,,4.2,,,Northern Territory
+5221,FIELD_6,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Agriculture, environmental and related studies (%)",2.7,,2.3,,,,,2.6,,,Northern Territory
+5222,FIELD_7,Non-school qualification: field of study - Persons aged 15 years and over - Census,Health (%),8.4,,8.5,,,,,10.6,,,Northern Territory
+5223,FIELD_8,Non-school qualification: field of study - Persons aged 15 years and over - Census,Education (%),7.2,,6.7,,,,,7.6,,,Northern Territory
+5224,FIELD_9,Non-school qualification: field of study - Persons aged 15 years and over - Census,Management and commerce (%),13.2,,13.4,,,,,16.4,,,Northern Territory
+5225,FIELD_10,Non-school qualification: field of study - Persons aged 15 years and over - Census,Society and culture (%),9.5,,10.0,,,,,11.7,,,Northern Territory
+5226,FIELD_11,Non-school qualification: field of study - Persons aged 15 years and over - Census,Creative arts (%),2.1,,1.9,,,,,2.2,,,Northern Territory
+5227,FIELD_12,Non-school qualification: field of study - Persons aged 15 years and over - Census,"Food, hospitality and personal services (%)",4.6,,4.2,,,,,4.5,,,Northern Territory
+5228,FIELD_13,Non-school qualification: field of study - Persons aged 15 years and over - Census,Mixed field programmes (%),0.2,,0.3,,,,,0.1,,,Northern Territory
+5229,FIELD_15,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study inadequately described (%),1.3,,1.3,,,,,1.4,,,Northern Territory
+5230,FIELD_16,Non-school qualification: field of study - Persons aged 15 years and over - Census,Field of study not stated (%),26.9,,27.9,,,,,20.9,,,Northern Territory
+5244,LF_4,Labour force status - Persons aged 15 years and over - Census,Unemployment rate (%),5.3,,7.0,,,,,5.6,,,Northern Territory
+5426,QUALMIG_2,Level of highest educational attainment of persons born overseas - Census,Postgraduate degree level (%),,,8.2,,,,,13.4,,,Northern Territory
+5427,QUALMIG_3,Level of highest educational attainment of persons born overseas - Census,Graduate diploma and graduate certificate level (%),,,2.3,,,,,2.7,,,Northern Territory
+5428,QUALMIG_4,Level of highest educational attainment of persons born overseas - Census,Bachelor degree level (%),,,22.4,,,,,25.0,,,Northern Territory
+5429,QUALMIG_5,Level of highest educational attainment of persons born overseas - Census,Advanced diploma and diploma level (%),,,10.6,,,,,10.6,,,Northern Territory
+5430,QUALMIG_6,Level of highest educational attainment of persons born overseas - Census,Certificate level (%),,,15.1,,,,,12.7,,,Northern Territory
+5431,QUALMIG_7,Level of highest educational attainment of persons born overseas - Census,School education level (%),,,32.3,,,,,28.1,,,Northern Territory
+5432,QUALMIG_8,Level of highest educational attainment of persons born overseas - Census,Education not stated (%),,,4.7,,,,,3.7,,,Northern Territory
+5446,LFMIG_5,Labour force status of persons born overseas - Persons aged 15 years and over - Census,Unemployment rate (%),,,4.3,,,,,3.2,,,Northern Territory
