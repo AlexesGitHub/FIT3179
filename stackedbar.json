@@ -1,0 +1,24 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Histogram of Full-time Employment Rates by Study Area",
+    "width": 300,
+    "height": 400,
+    "title": "Employment Rates",
+    "data": {
+      "url": "https://raw.githubusercontent.com/AlexesGitHub/FIT3179/refs/heads/main/Undergraduate_Employment_Outcomes.csv"
+    },
+    "transform": [
+      {"fold": ["Full-time employment 2022", "Full-time employment 2023"], "as": ["Metric", "Value"]}
+    ],
+    "mark": "bar",
+    "encoding": {
+      "x": {"bin": true, "field": "Value", "type": "quantitative", "title": "Full-time Employment Rate (%)"},
+      "y": {"aggregate": "count", "type": "quantitative", "title": "Number of Study Areas"},
+      "color": {"field": "Metric", "type": "nominal", "title": "Year"},
+      "tooltip": [
+        {"field": "Value", "type": "quantitative", "title": "Employment Rate"},
+        {"field": "Metric", "type": "nominal", "title": "Year"}
+      ]
+    }
+  }
+  
