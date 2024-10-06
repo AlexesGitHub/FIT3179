@@ -1,17 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Line chart showing completion rates over time by university, with inline annotation",
+  "description": "Line chart showing graduation rates of university students with dynamic average completion rate annotation",
   "width": 300,
   "height": 300,
-  "title": {
-    "text": "Graduation rates of Uni Students as a percentage",
-    "font": "Arial",
-    "fontSize": 16,
-    "fontWeight": "bold",
-    "anchor": "start"
-  },
+  "title": "Completion Rate Amongst University Students As a Percentage",
   "data": {
-    "url": "https://raw.githubusercontent.com/AlexesGitHub/FIT3179/refs/heads/main/uni_completion_rate_formatted.csv"
+    "url": "uni_completion_rate_formatted.csv"
   },
   "layer": [
     {
@@ -84,41 +78,35 @@
       }
     },
     {
+      "transform": [
+        {
+          "filter": {
+            "param": "selectedState"
+          }
+        },
+        {
+          "aggregate": [
+            {"op": "mean", "field": "Completion_Rate", "as": "AverageCompletionRate"}
+          ]
+        },
+        {
+          "calculate": "'Average completion rate: ' + format(datum.AverageCompletionRate, '.2f') + '%'",
+          "as": "AverageCompletionRateText"
+        }
+      ],
       "mark": {
         "type": "text",
         "align": "left",
-        "dx": -215,
-        "dy": -10,
-        "font": "Arial",
+        "dx": 5,
+        "dy": -5,
         "fontSize": 12,
         "fontWeight": "bold"
       },
       "encoding": {
-        "x": {"field": "Year_Range", "type": "ordinal"},
-        "y": {"field": "Completion_Rate", "type": "quantitative"},
-        "text": {"value": "High Completion Rate"},
+        "x": {"value": 0},
+        "y": {"value": 260},
+        "text": {"field": "AverageCompletionRateText"},
         "color": {"value": "green"}
-      },
-      "transform": [
-        {
-          "filter": "datum.University == 'The University of Melbourne' && datum.Year_Range == '2015-2023'"
-        }
-      ]
-    },
-    {
-      "mark": {
-        "type": "text",
-        "align": "left",
-        "dx": 10,
-        "dy": -10,
-        "font": "Arial",
-        "fontSize": 12
-      },
-      "encoding": {
-        "x": {"value": 75},
-        "y": {"value": 300},
-        "text": {"value": "low completion rate"},
-        "color": {"value": "red"}
       }
     }
   ]
