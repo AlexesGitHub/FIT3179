@@ -1,0 +1,125 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Line chart showing completion rates over time by university, with inline annotation",
+  "width": 300,
+  "height": 300,
+  "title": {
+    "text": "Graduation rates of Uni Students as a percentage",
+    "font": "Arial",
+    "fontSize": 16,
+    "fontWeight": "bold",
+    "anchor": "start"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/AlexesGitHub/FIT3179/refs/heads/main/uni_completion_rate_formatted.csv"
+  },
+  "layer": [
+    {
+      "params": [
+        {
+          "name": "selectedState",
+          "select": {
+            "type": "point",
+            "fields": ["State"]
+          },
+          "bind": {
+            "input": "select",
+            "options": [
+              "New South Wales",
+              "Victoria",
+              "Queensland",
+              "South Australia",
+              "Western Australia",
+              "Tasmania",
+              "Northern Territory",
+              "Australian Capital Territory"
+            ],
+            "name": "State: "
+          },
+          "value": "Victoria"
+        }
+      ],
+      "transform": [
+        {
+          "filter": {
+            "param": "selectedState"
+          }
+        }
+      ],
+      "mark": "line",
+      "encoding": {
+        "x": {
+          "field": "Year_Range",
+          "type": "ordinal",
+          "title": "Year Range",
+          "sort": [
+            "2005-2013",
+            "2006-2014",
+            "2007-2015",
+            "2008-2016",
+            "2009-2017",
+            "2010-2018",
+            "2011-2019",
+            "2012-2020",
+            "2013-2021",
+            "2014-2022",
+            "2015-2023"
+          ]
+        },
+        "y": {
+          "field": "Completion_Rate",
+          "type": "quantitative",
+          "title": "Completion Rate (%)"
+        },
+        "color": {
+          "field": "University",
+          "type": "nominal",
+          "legend": {"title": "University"}
+        },
+        "tooltip": [
+          {"field": "University", "type": "nominal"},
+          {"field": "Completion_Rate", "type": "quantitative"},
+          {"field": "Year_Range", "type": "ordinal"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": -215,
+        "dy": -10,
+        "font": "Arial",
+        "fontSize": 12,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "x": {"field": "Year_Range", "type": "ordinal"},
+        "y": {"field": "Completion_Rate", "type": "quantitative"},
+        "text": {"value": "High Completion Rate"},
+        "color": {"value": "green"}
+      },
+      "transform": [
+        {
+          "filter": "datum.University == 'The University of Melbourne' && datum.Year_Range == '2015-2023'"
+        }
+      ]
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 10,
+        "dy": -10,
+        "font": "Arial",
+        "fontSize": 12
+      },
+      "encoding": {
+        "x": {"value": 75},
+        "y": {"value": 300},
+        "text": {"value": "low completion rate"},
+        "color": {"value": "red"}
+      }
+    }
+  ]
+}
