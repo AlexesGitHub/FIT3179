@@ -1,0 +1,419 @@
+State,University,Year_Range,Completion_Rate
+New South Wales,Charles Sturt University,2005-2013,62.3
+New South Wales,Macquarie University,2005-2013,78.9
+New South Wales,Southern Cross University,2005-2013,59.3
+New South Wales,The University of New England,2005-2013,61.3
+New South Wales,The University of Newcastle,2005-2013,77.4
+New South Wales,The University of Sydney,2005-2013,89.1
+New South Wales,University of New South Wales,2005-2013,82.5
+New South Wales,University of Technology Sydney,2005-2013,84.5
+New South Wales,University of Wollongong,2005-2013,82.1
+New South Wales,Western Sydney University,2005-2013,74.4
+Victoria,Deakin University,2005-2013,70.9
+Victoria,Federation University Australia(a),2005-2013,67.8
+Victoria,La Trobe University,2005-2013,76.3
+Victoria,Monash University,2005-2013,81.2
+Victoria,RMIT University,2005-2013,75
+Victoria,Swinburne University of Technology,2005-2013,71
+Victoria,The University of Melbourne,2005-2013,90.1
+Victoria,Victoria University,2005-2013,66.3
+Queensland,CQUniversity,2005-2013,51.2
+Queensland,Griffith University,2005-2013,69.9
+Queensland,James Cook University,2005-2013,60.8
+Queensland,Queensland University of Technology,2005-2013,74.7
+Queensland,The University of Queensland,2005-2013,80.6
+Queensland,University of Southern Queensland,2005-2013,52.4
+Queensland,University of the Sunshine Coast,2005-2013,56.6
+Western Australia,Curtin University,2005-2013,73.8
+Western Australia,Edith Cowan University,2005-2013,63.5
+Western Australia,Murdoch University,2005-2013,63.5
+Western Australia,The University of Western Australia,2005-2013,86.6
+South Australia,Flinders University,2005-2013,74.4
+South Australia,The University of Adelaide,2005-2013,79.9
+South Australia,University of South Australia,2005-2013,68.6
+Tasmania,University of Tasmania,2005-2013,69
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2005-2013,52.4
+Northern Territory,Charles Darwin University,2005-2013,53.6
+Australian Capital Territory,The Australian National University,2005-2013,86.9
+Australian Capital Territory,University of Canberra,2005-2013,73.9
+Multi-State,Australian Catholic University,2005-2013,79.3
+New South Wales,Charles Sturt University,2006-2014,61.3
+New South Wales,Macquarie University,2006-2014,77.7
+New South Wales,Southern Cross University,2006-2014,60.7
+New South Wales,The University of New England,2006-2014,59.5
+New South Wales,The University of Newcastle,2006-2014,77
+New South Wales,The University of Sydney,2006-2014,88.6
+New South Wales,University of New South Wales,2006-2014,81.9
+New South Wales,University of Technology Sydney,2006-2014,83.7
+New South Wales,University of Wollongong,2006-2014,81
+New South Wales,Western Sydney University,2006-2014,73.7
+Victoria,Deakin University,2006-2014,71.2
+Victoria,Federation University Australia(a),2006-2014,61.4
+Victoria,La Trobe University,2006-2014,76.5
+Victoria,Monash University,2006-2014,84.3
+Victoria,RMIT University,2006-2014,76.2
+Victoria,Swinburne University of Technology,2006-2014,71.4
+Victoria,The University of Melbourne,2006-2014,90.3
+Victoria,Victoria University,2006-2014,66.9
+Queensland,CQUniversity,2006-2014,48.2
+Queensland,Griffith University,2006-2014,69.9
+Queensland,James Cook University,2006-2014,60.6
+Queensland,Queensland University of Technology,2006-2014,73
+Queensland,The University of Queensland,2006-2014,79.3
+Queensland,University of Southern Queensland,2006-2014,49.2
+Queensland,University of the Sunshine Coast,2006-2014,55.2
+Western Australia,Curtin University,2006-2014,71.9
+Western Australia,Edith Cowan University,2006-2014,63.2
+Western Australia,Murdoch University,2006-2014,62.2
+Western Australia,The University of Western Australia,2006-2014,86.2
+South Australia,Flinders University,2006-2014,72.7
+South Australia,The University of Adelaide,2006-2014,81.1
+South Australia,University of South Australia,2006-2014,68.7
+Tasmania,University of Tasmania,2006-2014,67.4
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2006-2014,46.9
+Northern Territory,Charles Darwin University,2006-2014,52.1
+Australian Capital Territory,The Australian National University,2006-2014,86.6
+Australian Capital Territory,University of Canberra,2006-2014,73.3
+Multi-State,Australian Catholic University,2006-2014,79.5
+New South Wales,Charles Sturt University,2007-2015,60.4
+New South Wales,Macquarie University,2007-2015,79.5
+New South Wales,Southern Cross University,2007-2015,60.2
+New South Wales,The University of New England,2007-2015,57.8
+New South Wales,The University of Newcastle,2007-2015,73.6
+New South Wales,The University of Sydney,2007-2015,87.4
+New South Wales,University of New South Wales,2007-2015,83.6
+New South Wales,University of Technology Sydney,2007-2015,84.6
+New South Wales,University of Wollongong,2007-2015,81.9
+New South Wales,Western Sydney University,2007-2015,71.6
+Victoria,Deakin University,2007-2015,72.7
+Victoria,Federation University Australia(a),2007-2015,61.2
+Victoria,La Trobe University,2007-2015,75.9
+Victoria,Monash University,2007-2015,84.9
+Victoria,RMIT University,2007-2015,77.2
+Victoria,Swinburne University of Technology,2007-2015,72.2
+Victoria,The University of Melbourne,2007-2015,91
+Victoria,Victoria University,2007-2015,64.9
+Queensland,CQUniversity,2007-2015,51.7
+Queensland,Griffith University,2007-2015,70.6
+Queensland,James Cook University,2007-2015,63.7
+Queensland,Queensland University of Technology,2007-2015,74
+Queensland,The University of Queensland,2007-2015,78.9
+Queensland,University of Southern Queensland,2007-2015,50.5
+Queensland,University of the Sunshine Coast,2007-2015,57.6
+Western Australia,Curtin University,2007-2015,72.5
+Western Australia,Edith Cowan University,2007-2015,64.5
+Western Australia,Murdoch University,2007-2015,59.2
+Western Australia,The University of Western Australia,2007-2015,86.9
+South Australia,Flinders University,2007-2015,71.4
+South Australia,The University of Adelaide,2007-2015,80.5
+South Australia,University of South Australia,2007-2015,69.8
+Tasmania,University of Tasmania,2007-2015,67.4
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2007-2015,33.7
+Northern Territory,Charles Darwin University,2007-2015,51.8
+Australian Capital Territory,The Australian National University,2007-2015,84.2
+Australian Capital Territory,University of Canberra,2007-2015,71
+Multi-State,Australian Catholic University,2007-2015,77.5
+New South Wales,Charles Sturt University,2008-2016,63.2
+New South Wales,Macquarie University,2008-2016,78.7
+New South Wales,Southern Cross University,2008-2016,58.9
+New South Wales,The University of New England,2008-2016,59.2
+New South Wales,The University of Newcastle,2008-2016,71.9
+New South Wales,The University of Sydney,2008-2016,86.4
+New South Wales,University of New South Wales,2008-2016,83.3
+New South Wales,University of Technology Sydney,2008-2016,84.9
+New South Wales,University of Wollongong,2008-2016,81.4
+New South Wales,Western Sydney University,2008-2016,71.3
+Victoria,Deakin University,2008-2016,74.6
+Victoria,Federation University Australia(a),2008-2016,58
+Victoria,La Trobe University,2008-2016,75.6
+Victoria,Monash University,2008-2016,85.7
+Victoria,RMIT University,2008-2016,77.6
+Victoria,Swinburne University of Technology,2008-2016,70.4
+Victoria,The University of Melbourne,2008-2016,91.1
+Victoria,Victoria University,2008-2016,67.8
+Queensland,CQUniversity,2008-2016,51.3
+Queensland,Griffith University,2008-2016,71.9
+Queensland,James Cook University,2008-2016,65.7
+Queensland,Queensland University of Technology,2008-2016,74.5
+Queensland,The University of Queensland,2008-2016,82
+Queensland,University of Southern Queensland,2008-2016,51.8
+Queensland,University of the Sunshine Coast,2008-2016,62
+Western Australia,Curtin University,2008-2016,73.1
+Western Australia,Edith Cowan University,2008-2016,64.6
+Western Australia,Murdoch University,2008-2016,61.9
+Western Australia,The University of Western Australia,2008-2016,87
+South Australia,Flinders University,2008-2016,71.5
+South Australia,The University of Adelaide,2008-2016,79.5
+South Australia,University of South Australia,2008-2016,69.8
+Tasmania,University of Tasmania,2008-2016,65.9
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2008-2016,32.3
+Northern Territory,Charles Darwin University,2008-2016,51
+Australian Capital Territory,The Australian National University,2008-2016,85
+Australian Capital Territory,University of Canberra,2008-2016,69.7
+Multi-State,Australian Catholic University,2008-2016,77.9
+New South Wales,Charles Sturt University,2009-2017,61.4
+New South Wales,Macquarie University,2009-2017,78.3
+New South Wales,Southern Cross University,2009-2017,58.9
+New South Wales,The University of New England,2009-2017,58.7
+New South Wales,The University of Newcastle,2009-2017,71.2
+New South Wales,The University of Sydney,2009-2017,86.9
+New South Wales,University of New South Wales,2009-2017,85.3
+New South Wales,University of Technology Sydney,2009-2017,85
+New South Wales,University of Wollongong,2009-2017,81.8
+New South Wales,Western Sydney University,2009-2017,70.4
+Victoria,Deakin University,2009-2017,75.9
+Victoria,Federation University Australia(a),2009-2017,57.6
+Victoria,La Trobe University,2009-2017,75.8
+Victoria,Monash University,2009-2017,85.1
+Victoria,RMIT University,2009-2017,80
+Victoria,Swinburne University of Technology,2009-2017,72.1
+Victoria,The University of Melbourne,2009-2017,92.1
+Victoria,Victoria University,2009-2017,63.9
+Queensland,CQUniversity,2009-2017,50.1
+Queensland,Griffith University,2009-2017,71.5
+Queensland,James Cook University,2009-2017,65.7
+Queensland,Queensland University of Technology,2009-2017,76.6
+Queensland,The University of Queensland,2009-2017,80.9
+Queensland,University of Southern Queensland,2009-2017,53.7
+Queensland,University of the Sunshine Coast,2009-2017,60
+Western Australia,Curtin University,2009-2017,72.7
+Western Australia,Edith Cowan University,2009-2017,62.9
+Western Australia,Murdoch University,2009-2017,60
+Western Australia,The University of Western Australia,2009-2017,85.8
+South Australia,Flinders University,2009-2017,68.1
+South Australia,The University of Adelaide,2009-2017,78.6
+South Australia,University of South Australia,2009-2017,71.7
+Tasmania,University of Tasmania,2009-2017,69.1
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2009-2017,39.8
+Northern Territory,Charles Darwin University,2009-2017,50.5
+Australian Capital Territory,The Australian National University,2009-2017,86.4
+Australian Capital Territory,University of Canberra,2009-2017,71.2
+Multi-State,Australian Catholic University,2009-2017,74.7
+New South Wales,Charles Sturt University,2010-2018,61.8
+New South Wales,Macquarie University,2010-2018,76
+New South Wales,Southern Cross University,2010-2018,62.3
+New South Wales,The University of New England,2010-2018,57.2
+New South Wales,The University of Newcastle,2010-2018,70.8
+New South Wales,The University of Sydney,2010-2018,87.6
+New South Wales,University of New South Wales,2010-2018,86.7
+New South Wales,University of Technology Sydney,2010-2018,84.6
+New South Wales,University of Wollongong,2010-2018,80.7
+New South Wales,Western Sydney University,2010-2018,68.7
+Victoria,Deakin University,2010-2018,76.7
+Victoria,Federation University Australia(a),2010-2018,43.6
+Victoria,La Trobe University,2010-2018,76.5
+Victoria,Monash University,2010-2018,85.5
+Victoria,RMIT University,2010-2018,79.5
+Victoria,Swinburne University of Technology,2010-2018,70.4
+Victoria,The University of Melbourne,2010-2018,91.5
+Victoria,Victoria University,2010-2018,62.9
+Queensland,CQUniversity,2010-2018,53.6
+Queensland,Griffith University,2010-2018,69.6
+Queensland,James Cook University,2010-2018,63.8
+Queensland,Queensland University of Technology,2010-2018,75.7
+Queensland,The University of Queensland,2010-2018,81.7
+Queensland,University of Southern Queensland,2010-2018,53.5
+Queensland,University of the Sunshine Coast,2010-2018,62.5
+Western Australia,Curtin University,2010-2018,71
+Western Australia,Edith Cowan University,2010-2018,61.1
+Western Australia,Murdoch University,2010-2018,60.5
+Western Australia,The University of Western Australia,2010-2018,84.6
+South Australia,Flinders University,2010-2018,68.8
+South Australia,The University of Adelaide,2010-2018,76.4
+South Australia,University of South Australia,2010-2018,70.8
+Tasmania,University of Tasmania,2010-2018,67
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2010-2018,23.8
+Northern Territory,Charles Darwin University,2010-2018,49.2
+Australian Capital Territory,The Australian National University,2010-2018,87.4
+Australian Capital Territory,University of Canberra,2010-2018,66.4
+Multi-State,Australian Catholic University,2010-2018,73.7
+New South Wales,Charles Sturt University,2011-2019,61.8
+New South Wales,Macquarie University,2011-2019,77.2
+New South Wales,Southern Cross University,2011-2019,57.9
+New South Wales,The University of New England,2011-2019,57.6
+New South Wales,The University of Newcastle,2011-2019,70.4
+New South Wales,The University of Sydney,2011-2019,86.6
+New South Wales,University of New South Wales,2011-2019,86.2
+New South Wales,University of Technology Sydney,2011-2019,85.8
+New South Wales,University of Wollongong,2011-2019,79.6
+New South Wales,Western Sydney University,2011-2019,67.4
+Victoria,Deakin University,2011-2019,74.3
+Victoria,Federation University Australia(a),2011-2019,45.4
+Victoria,La Trobe University,2011-2019,74.6
+Victoria,Monash University,2011-2019,85.8
+Victoria,RMIT University,2011-2019,78.9
+Victoria,Swinburne University of Technology,2011-2019,69.2
+Victoria,The University of Melbourne,2011-2019,91.8
+Victoria,Victoria University,2011-2019,65.3
+Queensland,CQUniversity,2011-2019,52.2
+Queensland,Griffith University,2011-2019,71.2
+Queensland,James Cook University,2011-2019,65.3
+Queensland,Queensland University of Technology,2011-2019,76.3
+Queensland,The University of Queensland,2011-2019,82.5
+Queensland,University of Southern Queensland,2011-2019,52.8
+Queensland,University of the Sunshine Coast,2011-2019,63.3
+Western Australia,Curtin University,2011-2019,71.4
+Western Australia,Edith Cowan University,2011-2019,60.1
+Western Australia,Murdoch University,2011-2019,60.1
+Western Australia,The University of Western Australia,2011-2019,85.3
+South Australia,Flinders University,2011-2019,67.4
+South Australia,The University of Adelaide,2011-2019,74.3
+South Australia,University of South Australia,2011-2019,69.4
+Tasmania,University of Tasmania,2011-2019,66.5
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2011-2019,36.4
+Northern Territory,Charles Darwin University,2011-2019,50.9
+Australian Capital Territory,The Australian National University,2011-2019,88.4
+Australian Capital Territory,University of Canberra,2011-2019,64.8
+Multi-State,Australian Catholic University,2011-2019,71.5
+New South Wales,Charles Sturt University,2012-2020,61.2
+New South Wales,Macquarie University,2012-2020,74.5
+New South Wales,Southern Cross University,2012-2020,55.8
+New South Wales,The University of New England,2012-2020,54.7
+New South Wales,The University of Newcastle,2012-2020,69.9
+New South Wales,The University of Sydney,2012-2020,84.9
+New South Wales,University of New South Wales,2012-2020,87.5
+New South Wales,University of Technology Sydney,2012-2020,84.9
+New South Wales,University of Wollongong,2012-2020,78.5
+New South Wales,Western Sydney University,2012-2020,66.3
+Victoria,Deakin University,2012-2020,72.1
+Victoria,Federation University Australia(a),2012-2020,57.6
+Victoria,La Trobe University,2012-2020,75.4
+Victoria,Monash University,2012-2020,86.1
+Victoria,RMIT University,2012-2020,79.2
+Victoria,Swinburne University of Technology,2012-2020,54.3
+Victoria,The University of Melbourne,2012-2020,92
+Victoria,Victoria University,2012-2020,62.9
+Queensland,CQUniversity,2012-2020,52.9
+Queensland,Griffith University,2012-2020,70.1
+Queensland,James Cook University,2012-2020,63.3
+Queensland,Queensland University of Technology,2012-2020,75.3
+Queensland,The University of Queensland,2012-2020,81.1
+Queensland,University of Southern Queensland,2012-2020,50.5
+Queensland,University of the Sunshine Coast,2012-2020,62.3
+Western Australia,Curtin University,2012-2020,69.1
+Western Australia,Edith Cowan University,2012-2020,60.4
+Western Australia,Murdoch University,2012-2020,58.7
+Western Australia,The University of Western Australia,2012-2020,85.2
+South Australia,Flinders University,2012-2020,67
+South Australia,The University of Adelaide,2012-2020,73.1
+South Australia,University of South Australia,2012-2020,69.5
+Tasmania,University of Tasmania,2012-2020,68.2
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2012-2020,0
+Northern Territory,Charles Darwin University,2012-2020,51.1
+Australian Capital Territory,The Australian National University,2012-2020,85.4
+Australian Capital Territory,University of Canberra,2012-2020,62.2
+Multi-State,Australian Catholic University,2012-2020,72.5
+New South Wales,Charles Sturt University,2013-2021,59.8
+New South Wales,Macquarie University,2013-2021,76
+New South Wales,Southern Cross University,2013-2021,57.3
+New South Wales,The University of New England,2013-2021,54.7
+New South Wales,The University of Newcastle,2013-2021,69.3
+New South Wales,The University of Sydney,2013-2021,83.1
+New South Wales,University of New South Wales,2013-2021,86.9
+New South Wales,University of Technology Sydney,2013-2021,83.1
+New South Wales,University of Wollongong,2013-2021,77.6
+New South Wales,Western Sydney University,2013-2021,66.2
+Victoria,Deakin University,2013-2021,69.7
+Victoria,Federation University Australia(a),2013-2021,60.8
+Victoria,La Trobe University,2013-2021,75.4
+Victoria,Monash University,2013-2021,86.1
+Victoria,RMIT University,2013-2021,79.7
+Victoria,Swinburne University of Technology,2013-2021,48.5
+Victoria,The University of Melbourne,2013-2021,93
+Victoria,Victoria University,2013-2021,61.8
+Queensland,CQUniversity,2013-2021,54.1
+Queensland,Griffith University,2013-2021,68.2
+Queensland,James Cook University,2013-2021,64.6
+Queensland,Queensland University of Technology,2013-2021,74.9
+Queensland,The University of Queensland,2013-2021,80.9
+Queensland,University of Southern Queensland,2013-2021,51.3
+Queensland,University of the Sunshine Coast,2013-2021,61.3
+Western Australia,Curtin University,2013-2021,68.9
+Western Australia,Edith Cowan University,2013-2021,57.9
+Western Australia,Murdoch University,2013-2021,58
+Western Australia,The University of Western Australia,2013-2021,84.1
+South Australia,Flinders University,2013-2021,66.3
+South Australia,The University of Adelaide,2013-2021,75.5
+South Australia,University of South Australia,2013-2021,69.6
+Tasmania,University of Tasmania,2013-2021,56.9
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2013-2021,0
+Northern Territory,Charles Darwin University,2013-2021,48.6
+Australian Capital Territory,The Australian National University,2013-2021,85
+Australian Capital Territory,University of Canberra,2013-2021,63.7
+Multi-State,Australian Catholic University,2013-2021,72.1
+New South Wales,Charles Sturt University,2014-2022,56.6
+New South Wales,Macquarie University,2014-2022,74.5
+New South Wales,Southern Cross University,2014-2022,55.9
+New South Wales,The University of New England,2014-2022,56.6
+New South Wales,The University of Newcastle,2014-2022,70.7
+New South Wales,The University of Sydney,2014-2022,84.3
+New South Wales,University of New South Wales,2014-2022,88.2
+New South Wales,University of Technology Sydney,2014-2022,82.9
+New South Wales,University of Wollongong,2014-2022,75.9
+New South Wales,Western Sydney University,2014-2022,64.9
+Victoria,Deakin University,2014-2022,67.2
+Victoria,Federation University Australia(a),2014-2022,58.1
+Victoria,La Trobe University,2014-2022,75
+Victoria,Monash University,2014-2022,87.4
+Victoria,RMIT University,2014-2022,79
+Victoria,Swinburne University of Technology,2014-2022,50.9
+Victoria,The University of Melbourne,2014-2022,92.5
+Victoria,Victoria University,2014-2022,61.3
+Queensland,CQUniversity,2014-2022,54
+Queensland,Griffith University,2014-2022,66.6
+Queensland,James Cook University,2014-2022,62.8
+Queensland,Queensland University of Technology,2014-2022,75.5
+Queensland,The University of Queensland,2014-2022,79.7
+Queensland,University of Southern Queensland,2014-2022,54.2
+Queensland,University of the Sunshine Coast,2014-2022,61.7
+Western Australia,Curtin University,2014-2022,68.7
+Western Australia,Edith Cowan University,2014-2022,58
+Western Australia,Murdoch University,2014-2022,59.9
+Western Australia,The University of Western Australia,2014-2022,84.5
+South Australia,Flinders University,2014-2022,66
+South Australia,The University of Adelaide,2014-2022,74.9
+South Australia,University of South Australia,2014-2022,68.4
+Tasmania,University of Tasmania,2014-2022,51.8
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2014-2022,0
+Northern Territory,Charles Darwin University,2014-2022,49.3
+Australian Capital Territory,The Australian National University,2014-2022,82.6
+Australian Capital Territory,University of Canberra,2014-2022,62.5
+Multi-State,Australian Catholic University,2014-2022,69.8
+New South Wales,Charles Sturt University,2015-2023,57.1
+New South Wales,Macquarie University,2015-2023,75
+New South Wales,Southern Cross University,2015-2023,56.6
+New South Wales,The University of New England,2015-2023,53
+New South Wales,The University of Newcastle,2015-2023,69.6
+New South Wales,The University of Sydney,2015-2023,83.9
+New South Wales,University of New South Wales,2015-2023,89.7
+New South Wales,University of Technology Sydney,2015-2023,82.3
+New South Wales,University of Wollongong,2015-2023,75.2
+New South Wales,Western Sydney University,2015-2023,64.7
+Victoria,Deakin University,2015-2023,68.4
+Victoria,Federation University Australia(a),2015-2023,58.7
+Victoria,La Trobe University,2015-2023,73.1
+Victoria,Monash University,2015-2023,88
+Victoria,RMIT University,2015-2023,80.2
+Victoria,Swinburne University of Technology,2015-2023,52
+Victoria,The University of Melbourne,2015-2023,91.7
+Victoria,Victoria University,2015-2023,63.1
+Queensland,CQUniversity,2015-2023,56.1
+Queensland,Griffith University,2015-2023,65.9
+Queensland,James Cook University,2015-2023,62.9
+Queensland,Queensland University of Technology,2015-2023,76.5
+Queensland,The University of Queensland,2015-2023,80.3
+Queensland,University of Southern Queensland,2015-2023,50.4
+Queensland,University of the Sunshine Coast,2015-2023,59.9
+Western Australia,Curtin University,2015-2023,65.1
+Western Australia,Edith Cowan University,2015-2023,55.2
+Western Australia,Murdoch University,2015-2023,59.9
+Western Australia,The University of Western Australia,2015-2023,82.2
+South Australia,Flinders University,2015-2023,65.4
+South Australia,The University of Adelaide,2015-2023,75.6
+South Australia,University of South Australia,2015-2023,69.2
+Tasmania,University of Tasmania,2015-2023,56.8
+Northern Territory,Batchelor Institute of Indigenous Tertiary Education(b),2015-2023,0
+Northern Territory,Charles Darwin University,2015-2023,51.4
+Australian Capital Territory,The Australian National University,2015-2023,85.6
+Australian Capital Territory,University of Canberra,2015-2023,61.7
+Multi-State,Australian Catholic University,2015-2023,72.1
