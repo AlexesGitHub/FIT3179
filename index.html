@@ -10,9 +10,14 @@
     <title>Homework Week 9 Visualisation</title>
 </head>
 <body>
-    <div id = "map1"></div>
+    <div id = "stackedBar"></div>
+    <div id = "lineGraph"></div>
     <script>
-        vegaEmbed("#map1","map.json").then(function(result){
+        vegaEmbed("#stackedBar","stackedbar.json").then(function(result){
+
+        }).catch(console.error);
+
+        vegaEmbed("#lineGraph","week10 hw.json").then(function(result){
 
         }).catch(console.error);
     </script>
